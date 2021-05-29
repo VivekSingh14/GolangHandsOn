@@ -12,4 +12,6 @@ func main() {
 	for i := 0; i < 3; i++ {
 		fmt.Println(arr[i])
 	}
+	fmt.Print("length of an array: ", len(arr), "\n")
+	//fmt.Println(len(arr))
 }
