@@ -1,0 +1,10 @@
+[2020-12-05 19:29:01.047] [sharedprocess] [info] main {"machineId":"564ef9782ccd6bc71eafb706ae9a080b86613d05b82083b5f4755942d0003431","windowId":2}
+[2020-12-05 19:29:01.077] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/vivek/go/src/~/home/vivek/go/src/User/snippets'
+[2020-12-05 19:29:01.733] [sharedprocess] [info] Deleted from disk ms-vscode.go /root/.vscode/extensions/ms-vscode.go-0.13.1
+[2020-12-05 19:29:41.060] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-12-11 19:32:31.769] [sharedprocess] [info] Installing extension: golang.go
+[2020-12-11 19:32:34.137] [sharedprocess] [info] Downloaded extension: golang.go undefined
+[2020-12-11 19:32:34.269] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.golang.go-0.19.1: golang.go
+[2020-12-11 19:32:34.269] [sharedprocess] [info] Renamed to /root/.vscode/extensions/golang.go-0.19.1
+[2020-12-11 19:32:34.272] [sharedprocess] [info] Installation completed. golang.go
+[2020-12-11 19:32:34.358] [sharedprocess] [info] Extensions installed successfully: golang.go

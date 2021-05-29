@@ -1,0 +1,1205 @@
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:14:15 undefined: one
+/home/vivek/go/src/printName/main.go:15:2 cannot refer to unexported name fmt.printf
+/home/vivek/go/src/printName/main.go:15:2 undefined: fmt.printf
+/home/vivek/go/src/printName/main.go:15:30 undefined: one
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:14:15 undeclared name: one
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:12:6 syntax error: unexpected string at end of statement
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:12:6 expected ';', found string
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:13:9 syntax error: unexpected str at end of statement
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:13:9 expected ';', found str
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:20:18 undefined: count
+/home/vivek/go/src/printName/main.go:21:11 cannot use i + 2 (type int) as type int32 in assignment
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:20:18 undeclared name: count
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:21:11 cannot use i + 2 (type int) as type int32 in assignment
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:21:13 cannot use i + 2 (value of type int) as int32 value in assignment
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:21:11 cannot use i + 2 (type int) as type int32 in assignment
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:21:13 cannot use i + 2 (value of type int) as int32 value in assignment
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:21:20 syntax error: unexpected i at end of statement
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:21:20 expected ';', found i (and 1 more errors)
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:19:6 i declared but not used
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:19:6 i declared but not used
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:23:9 syntax error: unexpected var, expecting expression
+/home/vivek/go/src/printName/main.go:24:15 syntax error: unexpected var, expecting expression
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:23:9 expected operand, found 'var' (and 1 more errors)
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:23:9 syntax error: unexpected var, expecting expression
+/home/vivek/go/src/printName/main.go:24:15 syntax error: unexpected var, expecting expression
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:23:9 expected operand, found 'var' (and 1 more errors)
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:22:8 append(ages, 12) evaluated but not used
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:22:2 append(ages, 12) (value of type []int32) is not used
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:22:22 syntax error: unexpected literal 12, expecting comma or )
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:22:22 missing ',' in argument list
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:22:6 ages.append undefined (type []int32 has no field or method append)
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:22:7 ages.append undefined (type []int32 has no field or method append)
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:22:6 ages.append undefined (type []int32 has no field or method append)
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:22:7 ages.append undefined (type []int32 has no field or method append)
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:23:8 missing arguments to append
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:23:9 invalid operation: not enough arguments for append() (expected 1, found 0)
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:23:8 append(ages, temp) evaluated but not used
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:23:2 append(ages, temp) (value of type []int32) is not used
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:23:8 append(ages, temp) evaluated but not used
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:23:2 append(ages, temp) (value of type []int32) is not used
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:28:18 undefined: count
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:28:18 undeclared name: count
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:20:11 cannot use i + 2 (type int) as type int32 in assignment
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:20:13 cannot use (i + 2) (value of type int) as int32 value in assignment
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:20:29 syntax error: unexpected i, expecting comma or )
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:20:29 missing ',' in argument list
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:20:10 undefined: apend
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:20:10 undeclared name: apend
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:20:10 undefined: apend
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:20:10 undeclared name: apend
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:20:29 syntax error: unexpected i, expecting comma or )
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:20:29 missing ',' in argument list
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:20:29 syntax error: unexpected i, expecting comma or )
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:20:29 missing ',' in argument list
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:20:10 undefined: apend
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:20:10 undeclared name: apend
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:20:29 syntax error: unexpected i, expecting comma or )
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:20:29 missing ',' in argument list
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:20:10 undefined: apend
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:20:10 undeclared name: apend
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:20:10 undefined: apend
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:20:10 undeclared name: apend
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:20:10 undefined: apend
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:20:10 undeclared name: apend
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:29:23 cannot use " " (type untyped string) as type int32
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:29:25 cannot convert " " (untyped string constant) to int32
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+/home/vivek/go/src/printName/main.go:5:6 exported type AWSMachine should have comment or be unexported
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+/home/vivek/go/src/printName/main.go:5:6 exported type AWSMachine should have comment or be unexported
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:52:20 syntax error: unexpected newline, expecting comma or }
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:52:20 missing ',' before newline in composite literal (and 4 more errors)
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:53:22 missing ',' before newline in composite literal (and 3 more errors)
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:53:22 syntax error: unexpected newline, expecting comma or }
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:56:17 syntax error: unexpected newline, expecting comma or }
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:56:17 missing ',' before newline in composite literal
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+/home/vivek/go/src/printName/main.go:5:6 exported type AWSMachine should have comment or be unexported
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:51:2 instance1 declared but not used
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:51:2 instance1 declared but not used
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+/home/vivek/go/src/printName/main.go:5:6 exported type AWSMachine should have comment or be unexported
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:59:21 cannot range over instance1 (type AWSMachine)
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:59:27 cannot range over instance1 (variable of type AWSMachine)
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+/home/vivek/go/src/printName/main.go:5:6 exported type AWSMachine should have comment or be unexported
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:59:21 type AWSMachine is not an expression
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:59:27 AWSMachine (type) is not an expression
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:59:37 syntax error: unexpected AWSMachine, expecting { after for clause
+/home/vivek/go/src/printName/main.go:60:29 syntax error: unexpected newline, expecting comma or }
+/home/vivek/go/src/printName/main.go:65:6 syntax error: unexpected test, expecting (
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:59:37 expected '{', found AWSMachine (and 2 more errors)
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+/home/vivek/go/src/printName/main.go:5:6 exported type AWSMachine should have comment or be unexported
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+/home/vivek/go/src/printName/main.go:5:6 exported type AWSMachine should have comment or be unexported
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:61:26 syntax error: unexpected { at end of statement
+/home/vivek/go/src/printName/main.go:67:14 newline in string
+/home/vivek/go/src/printName/main.go:71:1 syntax error: non-declaration statement outside function body
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:61:26 expected ';', found '{' (and 1 more errors)
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:61:26 syntax error: unexpected { at end of statement
+/home/vivek/go/src/printName/main.go:67:13 newline in string
+/home/vivek/go/src/printName/main.go:71:1 syntax error: non-declaration statement outside function body
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:61:26 expected ';', found '{' (and 1 more errors)
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:61:26 syntax error: unexpected { at end of statement
+/home/vivek/go/src/printName/main.go:71:1 syntax error: non-declaration statement outside function body
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:61:26 expected ';', found '{'
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:61:26 syntax error: unexpected { at end of statement
+/home/vivek/go/src/printName/main.go:71:1 syntax error: non-declaration statement outside function body
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:61:26 expected ';', found '{'
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:61:26 syntax error: unexpected { at end of statement
+/home/vivek/go/src/printName/main.go:71:1 syntax error: non-declaration statement outside function body
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:61:26 expected ';', found '{'
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:61:26 syntax error: unexpected { at end of statement
+/home/vivek/go/src/printName/main.go:71:1 syntax error: non-declaration statement outside function body
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:61:26 expected ';', found '{'
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:61:26 syntax error: unexpected { at end of statement
+/home/vivek/go/src/printName/main.go:69:3 syntax error: non-declaration statement outside function body
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:61:26 expected ';', found '{'
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:61:26 syntax error: unexpected { at end of statement
+/home/vivek/go/src/printName/main.go:69:3 syntax error: non-declaration statement outside function body
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:61:26 expected ';', found '{'
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+/home/vivek/go/src/printName/main.go:5:6 exported type AWSMachine should have comment or be unexported
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+/home/vivek/go/src/printName/main.go:5:6 exported type AWSMachine should have comment or be unexported
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+/home/vivek/go/src/printName/main.go:5:6 exported type AWSMachine should have comment or be unexported
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+/home/vivek/go/src/printName/main.go:5:6 exported type AWSMachine should have comment or be unexported
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+/home/vivek/go/src/printName/main.go:5:6 exported type AWSMachine should have comment or be unexported
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+/home/vivek/go/src/printName/main.go:5:6 exported type AWSMachine should have comment or be unexported
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+/home/vivek/go/src/printName/main.go:75:6 println not declared by package fmt
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+/home/vivek/go/src/printName/main.go:75:2 cannot refer to unexported name fmt.println
+/home/vivek/go/src/printName/main.go:75:2 undefined: fmt.println
+
+Starting linting the current package at /home/vivek/go/src/printName
+Starting "go vet" under the folder /home/vivek/go/src/printName
+Starting building the current package at /home/vivek/go/src/printName
+Not able to determine import path of current package by using cwd: /home/vivek/go/src/printName and Go workspace: 
+/home/vivek/go/src/printName>Finished running tool: /root/go/bin/golint
+/home/vivek/go/src/printName/main.go:5:6 exported type AWSMachine should have comment or be unexported
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go vet .
+
+/home/vivek/go/src/printName>Finished running tool: /usr/local/go/bin/go build -o /tmp/vscode-goDO6HFC/go-code-check .
+

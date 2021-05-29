@@ -1,0 +1,33 @@
+[2020-12-05 19:28:57.840] [main] [info] update#setState idle
+[2020-12-05 19:29:27.847] [main] [info] update#setState checking for updates
+[2020-12-05 19:29:28.103] [main] [info] update#setState idle
+[2020-12-06 08:40:39.263] [main] [info] update#setState checking for updates
+[2020-12-06 08:40:39.272] [main] [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:105:6395)
+    at SimpleURLLoaderWrapper.emit (events.js:223:5)
+[2020-12-06 08:40:39.272] [main] [info] update#setState idle
+[2020-12-06 09:40:39.363] [main] [info] update#setState checking for updates
+[2020-12-06 09:40:41.246] [main] [info] update#setState idle
+[2020-12-06 13:12:37.304] [main] [info] update#setState checking for updates
+[2020-12-06 13:12:38.664] [main] [info] update#setState idle
+[2020-12-06 14:12:37.406] [main] [info] update#setState checking for updates
+[2020-12-06 14:12:39.029] [main] [info] update#setState idle
+[2020-12-06 15:12:37.468] [main] [info] update#setState checking for updates
+[2020-12-06 15:12:38.621] [main] [info] update#setState idle
+[2020-12-06 16:12:37.570] [main] [info] update#setState checking for updates
+[2020-12-06 16:12:38.575] [main] [info] update#setState idle
+[2020-12-06 22:36:39.116] [main] [info] update#setState checking for updates
+[2020-12-06 22:36:40.563] [main] [info] update#setState idle
+[2020-12-08 07:54:25.632] [main] [info] update#setState checking for updates
+[2020-12-08 07:54:27.344] [main] [info] update#setState idle
+[2020-12-08 08:54:25.732] [main] [info] update#setState checking for updates
+[2020-12-08 08:54:27.044] [main] [info] update#setState idle
+[2020-12-10 12:11:13.426] [main] [info] update#setState checking for updates
+[2020-12-10 12:11:14.418] [main] [info] update#setState idle
+[2020-12-11 20:21:38.659] [main] [info] update#setState checking for updates
+[2020-12-11 20:21:38.669] [main] [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:105:6395)
+    at SimpleURLLoaderWrapper.emit (events.js:223:5)
+[2020-12-11 20:21:38.669] [main] [info] update#setState idle
+[2020-12-11 21:21:38.697] [main] [info] update#setState checking for updates
+[2020-12-11 21:21:39.924] [main] [info] update#setState available for download

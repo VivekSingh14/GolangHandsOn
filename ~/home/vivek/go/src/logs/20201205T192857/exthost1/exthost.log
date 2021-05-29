@@ -1,0 +1,86 @@
+[2020-12-05 19:28:59.166] [exthost] [info] extension host started
+[2020-12-05 19:28:59.181] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2020-12-05 19:28:59.182] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-12-05 19:28:59.192] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-12-05 19:28:59.192] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-12-05 19:28:59.194] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-12-05 19:28:59.194] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2020-12-05 19:28:59.213] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-12-05 19:28:59.213] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-12-05 19:28:59.242] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-12-05 19:28:59.242] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-12-05 19:28:59.244] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-12-05 19:28:59.244] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-12-05 19:28:59.282] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-12-05 19:28:59.282] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-12-05 19:28:59.303] [exthost] [info] eager extensions activated
+[2020-12-05 19:28:59.303] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2020-12-05 19:28:59.303] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2020-12-05 19:28:59.418] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2020-12-05 19:28:59.418] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-12-05 19:29:48.055] [exthost] [info] extension host started
+[2020-12-05 19:29:48.064] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2020-12-05 19:29:48.065] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-12-05 19:29:48.071] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-12-05 19:29:48.071] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-12-05 19:29:48.075] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-12-05 19:29:48.075] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2020-12-05 19:29:48.083] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-12-05 19:29:48.083] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-12-05 19:29:48.095] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-12-05 19:29:48.095] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-12-05 19:29:48.097] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-12-05 19:29:48.097] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-12-05 19:29:48.146] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-12-05 19:29:48.146] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-12-05 19:29:48.173] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2020-12-05 19:29:48.173] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2020-12-05 19:29:48.234] [exthost] [info] ExtensionService#_doActivateExtension golang.go {"startup":true,"extensionId":{"value":"golang.go","_lower":"golang.go"},"activationEvent":"workspaceContains:**/*.go"}
+[2020-12-05 19:29:48.234] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/golang.go-0.19.0/dist/goMain.js
+[2020-12-05 19:29:48.370] [exthost] [info] eager extensions activated
+[2020-12-05 19:29:48.376] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2020-12-05 19:29:48.377] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-12-06 09:06:04.985] [exthost] [error] [golang.go] provider FAILED
+[2020-12-06 09:06:04.985] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-12-06 09:06:47.160] [exthost] [error] [golang.go] provider FAILED
+[2020-12-06 09:06:47.160] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-12-06 09:20:35.377] [exthost] [error] [golang.go] provider FAILED
+[2020-12-06 09:20:35.377] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-12-06 09:21:32.714] [exthost] [error] [golang.go] provider FAILED
+[2020-12-06 09:21:32.714] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-12-06 09:22:23.996] [exthost] [error] [golang.go] provider FAILED
+[2020-12-06 09:22:23.996] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-12-06 14:24:03.196] [exthost] [error] [golang.go] provider FAILED
+[2020-12-06 14:24:03.196] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-12-06 14:52:33.535] [exthost] [error] [golang.go] provider FAILED
+[2020-12-06 14:52:33.535] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-12-06 14:52:52.610] [exthost] [error] [golang.go] provider FAILED
+[2020-12-06 14:52:52.610] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-12-06 14:52:52.767] [exthost] [error] [golang.go] provider FAILED
+[2020-12-06 14:52:52.767] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-12-06 14:53:06.947] [exthost] [error] [golang.go] provider FAILED
+[2020-12-06 14:53:06.947] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-12-06 15:44:00.862] [exthost] [error] [golang.go] provider FAILED
+[2020-12-06 15:44:00.862] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-12-06 15:44:07.688] [exthost] [error] [golang.go] provider FAILED
+[2020-12-06 15:44:07.688] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-12-06 15:44:14.880] [exthost] [error] [golang.go] provider FAILED
+[2020-12-06 15:44:14.880] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-12-06 15:45:56.090] [exthost] [error] [golang.go] provider FAILED
+[2020-12-06 15:45:56.090] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-12-06 16:18:42.480] [exthost] [error] [golang.go] provider FAILED
+[2020-12-06 16:18:42.480] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-12-06 16:18:45.205] [exthost] [error] [golang.go] provider FAILED
+[2020-12-06 16:18:45.205] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-12-06 16:18:48.871] [exthost] [error] [golang.go] provider FAILED
+[2020-12-06 16:18:48.871] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-12-06 16:18:52.863] [exthost] [error] [golang.go] provider FAILED
+[2020-12-06 16:18:52.863] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-12-06 16:19:12.113] [exthost] [error] [golang.go] provider FAILED
+[2020-12-06 16:19:12.113] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-12-06 16:19:15.027] [exthost] [error] [golang.go] provider FAILED
+[2020-12-06 16:19:15.027] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-12-06 16:20:13.666] [exthost] [error] [golang.go] provider FAILED
+[2020-12-06 16:20:13.666] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-12-06 16:20:13.835] [exthost] [error] [golang.go] provider FAILED
+[2020-12-06 16:20:13.835] [exthost] [error] Check the console in dev tools to find errors when formatting.
