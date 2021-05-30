@@ -7,6 +7,7 @@ import (
 )
 
 func main() {
+	//taking the current time for no reason
 	rand.Seed(time.Now().UnixNano())
 
 	fmt.Println(time.Now())
