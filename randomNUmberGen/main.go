@@ -13,7 +13,7 @@ func main() {
 
 	const max = 5
 	for found := 0; found < max; found++ {
-		//n := rand.Intn(max) + 1
-		//fmt.Println(n, " ")
+		n := rand.Intn(max) + 1
+		fmt.Println(n, " ")
 	}
 }
