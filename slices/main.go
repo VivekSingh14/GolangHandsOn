@@ -11,7 +11,7 @@ func main() {
 	//append
 	arr = append(arr, 7)
 	arr = append(arr, 3)
-	arr = append(arr, 19)
+	arr = append(arr, 21)
 
 	fmt.Println(arr)
 
