@@ -21,4 +21,16 @@ func main() {
 	sort.Ints(arr)
 
 	fmt.Println(arr)
+
+	//after slicing the slice
+	arr2 := arr[0:2]
+
+	fmt.Println(arr2)
+
+	arr2 = arr[:4]
+
+	fmt.Println(arr2)
+
+	arr2 = arr[1:]
+	fmt.Println(arr2)
 }
