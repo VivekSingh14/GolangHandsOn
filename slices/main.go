@@ -6,12 +6,13 @@ import (
 )
 
 func main() {
-	var arr []int
+	arr := []int{1, 2}
 
 	//append
 	arr = append(arr, 7)
-	arr = append(arr, 3)
-	arr = append(arr, 21)
+
+	arr = append(arr, 3, 21)
+	//arr = append(arr, 21)
 
 	fmt.Println(arr)
 
