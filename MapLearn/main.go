@@ -44,4 +44,14 @@ func main() {
 	_, ok1 := myMap[03]
 
 	fmt.Println("is", 04, "available in the map ? ", ok1)
+
+	//modifying the older map.
+	newMap := myMap
+
+	newMap[04] = 104
+	newMap[05] = 105
+
+	fmt.Println("\n**********after adding the key values to it.*********** ")
+	fmt.Println("\n", myMap)
+
 }
