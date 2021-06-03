@@ -24,4 +24,10 @@ func main() {
 		fmt.Println(myMap[i+1])
 	}
 
+	fmt.Println("***********traversing a map using for each or range loop********")
+
+	for id, roll := range myMap {
+		fmt.Println(id, " : ", roll)
+	}
+
 }
