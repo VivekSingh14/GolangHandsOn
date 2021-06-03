@@ -33,4 +33,8 @@ func main() {
 
 	arr2 = arr[1:]
 	fmt.Println(arr2)
+
+	str := []string{"Vivek", "Singh", "Test", "Complete"}
+
+	fmt.Println(str)
 }
