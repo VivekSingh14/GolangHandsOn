@@ -25,6 +25,11 @@ func main() {
 	three := ageChange(two)
 
 	fmt.Println(three)
+
+	four := Student{name: "Vishal", class: 12, age: 19}
+
+	fmt.Println(four)
+
 }
 
 func (s Student) nameChange() Student {
