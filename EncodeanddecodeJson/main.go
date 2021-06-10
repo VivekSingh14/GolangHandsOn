@@ -8,8 +8,8 @@ import (
 type permissions map[string]bool
 
 type user struct {
-	name     string
-	password string
+	Name     string
+	Password string
 	permissions
 }
 
@@ -30,6 +30,8 @@ func main() {
 
 	//had to convert the out into string because by default out's type is byte.
 	//and in this case we are not able to see the data because json package only encodes exported fields.
+
+	//so if we want to print the json result we need to set struct variable names starting from upper case.
 	fmt.Println(string(out))
 
 }
