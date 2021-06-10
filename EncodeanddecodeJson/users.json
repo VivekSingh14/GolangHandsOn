@@ -1,0 +1,17 @@
+[
+	{
+		"username": "Vivek"
+	},
+	{
+		"username": "Vikas",
+		"params": {
+			"admin": true
+		}
+	},
+	{
+		"username": "Vishal",
+		"params": {
+			"write": true
+		}
+	}
+]
