@@ -8,8 +8,9 @@ import (
 type permissions map[string]bool
 
 type user struct {
-	Name string
 
+	//if we want to print name as username on result
+	Name string `json:"username"`
 	//if you want to hide the sensitive data such as password put json:"-", put opposite to it.
 	Password    string `json:"-"`
 	Permissions permissions
