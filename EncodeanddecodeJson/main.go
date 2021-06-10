@@ -12,8 +12,10 @@ type user struct {
 	//if we want to print name as username on result
 	Name string `json:"username"`
 	//if you want to hide the sensitive data such as password put json:"-", put opposite to it.
-	Password    string `json:"-"`
-	Permissions permissions
+	Password string `json:"-"`
+
+	//added omitempty because if some permissions or params having null value in any variable it will skip that variables param or field.
+	Permissions permissions `json:"params,omitempty"`
 }
 
 func main() {
