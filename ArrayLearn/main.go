@@ -20,7 +20,7 @@ func main() {
 		fmt.Println(arr[i])
 	}
 
-	fmt.Println("traversing array using for each ")
+	fmt.Println("traversing Hello for commit array using for each ")
 	//took boolean array of size arr
 	var published [len(arr)]bool
 
