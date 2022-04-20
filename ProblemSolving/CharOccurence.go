@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	str := "vivek"
+	str := "vivekv"
 	map1 := make(map[rune]int)
 	arr := []rune(str)
 
