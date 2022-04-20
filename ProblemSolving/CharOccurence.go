@@ -22,3 +22,6 @@ func main() {
 	}
 
 }
+func Display() {
+	fmt.Println("Testing the dev branch")
+}

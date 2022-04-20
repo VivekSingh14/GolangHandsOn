@@ -4,11 +4,7 @@ import "fmt"
 
 func main() {
 
-<<<<<<< HEAD
-	str := "abcbdeafedz"
-=======
 	str := "abcbdeafedi"
->>>>>>> 8035e4adb83db7910efb5177f083012ce261daee
 	arr := []rune(str)
 
 	map1 := make(map[rune]int)
