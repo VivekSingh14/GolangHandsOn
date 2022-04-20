@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	str := "abcbdeafed"
+	str := "abcbdeafedz"
 	arr := []rune(str)
 
 	map1 := make(map[rune]int)
