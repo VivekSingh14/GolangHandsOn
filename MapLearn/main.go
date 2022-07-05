@@ -7,7 +7,7 @@ func main() {
 	//declaration and initialization
 	myMap := map[int]int{
 		01: 101,
-		02: 102,
+		02: 103,
 	}
 
 	fmt.Println(myMap)
